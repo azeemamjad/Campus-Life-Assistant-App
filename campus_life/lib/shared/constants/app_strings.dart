@@ -1,0 +1,1 @@
+// Define constants like app titles

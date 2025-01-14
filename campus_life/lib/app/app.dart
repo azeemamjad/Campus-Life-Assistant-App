@@ -1,0 +1,1 @@
+// Application-level widgets (e.g., MaterialApp)
